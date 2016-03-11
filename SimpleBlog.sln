@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Web", "SimpleBlo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Core", "SimpleBlog.Core\SimpleBlog.Core.csproj", "{F54810F7-9BC6-4A8F-800A-A7CBA7517328}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleBlog.Web.UI", "SimpleBlog.Web.UI", "{3A995345-7C50-4DEA-BED1-4469045F8831}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Setup", "Setup", "{E8B14A5E-E32D-4E7D-9644-7B1E27DC34B2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
