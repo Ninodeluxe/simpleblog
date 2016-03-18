@@ -108,6 +108,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Models\models.txt" />
+    <Content Include="Scripts\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -124,6 +125,7 @@
     <Content Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Styles\scss\main.scss" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -134,12 +136,11 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Scripts\libs\" />
+    <Folder Include="Styles\libs\" />
     <Folder Include="UI\apps\" />
     <Folder Include="UI\data\" />
     <Folder Include="UI\images\" />
-    <Folder Include="UI\libs\" />
-    <Folder Include="UI\scripts\" />
-    <Folder Include="UI\styles\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleBlog.Core\SimpleBlog.Core.csproj">
