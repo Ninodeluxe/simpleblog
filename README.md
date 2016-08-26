@@ -1,2 +1,2 @@
 # simpleblog
-**Project on ice**
+**A project on ice**
